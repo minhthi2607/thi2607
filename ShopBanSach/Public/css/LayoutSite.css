@@ -1,0 +1,53 @@
+﻿body {
+}
+/* tạo bg nền cho footer*/
+
+/* END tạo bg nên cho footer*/
+
+
+/* tạo hover màu đỏ cho icon  giao hàng, đăt hàng, đổi trả*/
+a.hover-color:hover, a.hover-color:active {
+    color: red;
+}
+.main_product {
+    display: flex;
+    padding: 10px;
+}
+.main_product_img{
+    width:40%;
+    padding-top:40%;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    margin:0 auto;
+
+}
+.product_info{
+    width:60%;
+    padding:10px;
+}
+/* END hover icon màu đỏ*/
+/*mobile: width <740px */
+@media only screen and (max-width : 46.1875em)
+{    .banner-top {
+        display:none;
+    }
+}
+/*tablet : width >=740px and  width <1024px */
+@media only screen and (min-width :46.25em ) and (max-width: 63.9375em )
+{
+ .main_product{
+     flex-direction:column-reverse;
+ }
+ .product_info{
+     width:100%;
+ }
+    .main-product-desc{
+        display:none;
+    }
+    .main_product_img{
+        width:85%;
+    }
+
+    
+}

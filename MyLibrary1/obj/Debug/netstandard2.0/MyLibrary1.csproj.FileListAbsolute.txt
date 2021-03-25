@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\bin\Debug\netstandard2.0\MyLibrary1.deps.json
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\bin\Debug\netstandard2.0\MyLibrary1.dll
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\obj\Debug\netstandard2.0\MyLibrary1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\obj\Debug\netstandard2.0\MyLibrary1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\obj\Debug\netstandard2.0\MyLibrary1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\obj\Debug\netstandard2.0\MyLibrary1.csproj.CopyComplete
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\bin\Debug\netstandard2.0\MyLibrary1.pdb
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\obj\Debug\netstandard2.0\MyLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\obj\Debug\netstandard2.0\MyLibrary1.dll
+C:\Users\Administrator\source\repos\PhanMinhThi__2118110227\MyLibrary1\obj\Debug\netstandard2.0\MyLibrary1.pdb
